@@ -1,0 +1,6 @@
+{
+  "name": "Franklin 2.0 Personal Operating System",
+  "description": "A closed-loop personal life operating system and tracker based on Benjamin Franklin's methodology: Values, Vision, Goals, Systems, Habits, Day Modes (Green/Yellow/Red), and Slip Recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
